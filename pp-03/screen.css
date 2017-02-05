@@ -39,14 +39,19 @@ input { /* 1 */
 /* End form normalization */
 /* ===== BASE STYLES ===== */
 html {
+  /* 18px major third 1.25 ratios */
   font-size: 1.125em;      /* 18px  1.125em @ 16px */
   line-height: 1.222em;    /* 22px  1.222em @ 18px */
-  font-family: 'Open Sans', sans-serif;
-  padding: 22px;
+  font-family: "Open Sans", sans-serif;
+  padding: 0.667em;  /* 12px 0.667em @ 18px */
+}
+#form-header {
+  font-size: 1.25em;      /* 22.5px  1.25em @ 18px */
+  line-height: 1.2em;     /* 27px  1.2em @ 1.25px */
+  padding-bottom: 0.533em;  /* 12px 0.533em @ 22.5px */
 }
 label,
 input {
-  /*display: inline-block;*/
+  display: block;
   width: 80%;
 }
-/* PP-03 version*/
