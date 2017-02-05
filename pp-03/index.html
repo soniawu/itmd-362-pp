@@ -5,8 +5,32 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no" />
   <link rel="stylesheet" media="screen" href="screen.css" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 </head>
 <body>
-
+  <form method="get" action="#null">
+    <h1>Please enter your information below -</h1>
+    <ol>
+      <li>
+        <label for="email">Email Address:</label>
+        <input type="email" name="email" id="email" pattern="^.+@.+$" inputmode="email" />
+      </li>
+      
+      <li>
+        <label for="tel">Phone Number:</label>
+        <input type="tel" name="tel" id="tel" inputmode="tel" />
+      </li>
+      
+      <li>
+        <label for="dob">Date of Birth:</label>
+        <input type="text" name="dob" id="dob" placeholder="MM/DD/YYYY" inputmode="numeric" 
+          pattern="^(0[1-9]|1[012])\/(0[1-9]|[12][0-9]|[3[01])\/(19|20)\d\d$" />
+      </li>
+      
+      <li>
+        <input type="submit" name="submit" value="submit"/>
+      </li>
+    </ol>
+  </form>
 </body>
 </html>
