@@ -197,14 +197,39 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
-
 label {
   display: block;
 }
+input {
+  /*font-family: Tahoma,Verdana,Segoe,sans-serif; */
+  font-family: "Allerta Stencil";
+  box-sizing: border-box;
+  width: 80%;
+  height: 50px;
+  background-color: #a8bcbd;
+  border: 0;
+  border-radious: 0;
+  padding: 20px;
+}
+/*input[type="email"] {
+  padding-bottom: 20px;
+} */
+input[type="checkbox"] {
+  width: auto;
+  height: auto;
+  float: left;
+}
+input[type="checkbox"] + label {
+  display: inline;
+}
 
 /* ===== LAYOUT STYLES ====== */
+form li {
+  padding-bottom: 20px;
+}
 
 /* ===== MODULAR STYLES ===== */
+
 
 /* ===== STATE STYLES ======= */
 
