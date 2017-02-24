@@ -192,28 +192,37 @@ img, audio, video {
 */
 
 html {
+  font-family: "Franklin Gothic Medium","Franklin Gothic","ITC Franklin Gothic",Arial,sans-serif;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+}
+input,
+label {
+  font-family: Andika,Arial,sans-serif;
 }
 label {
   display: block;
 }
 input {
   /*font-family: Tahoma,Verdana,Segoe,sans-serif; */
-  font-family: "Allerta Stencil";
+  
   box-sizing: border-box;
   width: 80%;
   height: 50px;
   background-color: #a8bcbd;
   border: 0;
   border-radious: 0;
-  padding: 20px;
+  padding: 30px;
 }
-/*input[type="email"] {
-  padding-bottom: 20px;
-} */
+h1 {
+  font-size: 30px;
+  line-height: 36px;
+}
+h1,p {
+  padding-bottom: 24px;
+}
 input[type="checkbox"] {
   width: auto;
   height: auto;
@@ -222,14 +231,10 @@ input[type="checkbox"] {
 input[type="checkbox"] + label {
   display: inline;
 }
-
 /* ===== LAYOUT STYLES ====== */
+/* ===== MODULAR STYLES ===== */
 form li {
   padding-bottom: 20px;
 }
-
-/* ===== MODULAR STYLES ===== */
-
-
 /* ===== STATE STYLES ======= */
 
