@@ -26,11 +26,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
+* How you implemented it in your sketch: Clarity. This is a login page. The login box is at the center on both mobile and desktop. It clearly tells uer this is the myIIT login page 
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
+* How you implemented it in your sketch: User Control. User may just want to get non-personal information, like school calendar, news etc..  The page provide links to access a few common, public information. If user find what the need, they don't have to login.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://developer.microsoft.com/en-us/windows/desktop/design
+* How you implemented it in your sketch: Message. Page will post error message when user name or password found problem and provide a link to help user to resolve such problem.
