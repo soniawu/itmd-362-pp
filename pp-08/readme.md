@@ -12,14 +12,14 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: I had no plan to buy a mug when I was shopping on that day. The mug caught my attention because the beautiful print and the unique design of the lid. (see mug1)
 
-* Behavioral:
+* Behavioral: More important than the unusual look, the lid gave me warmness. In winter, my tea would get cold in couple minutes. With the lid, I can keep it warm longer.
 
-* Reflective:
+* Reflective: We love to make tea with loose tea leaves. Usually we use a filter to separate the leaves. All the filter we got are made of metals. Some would be rusted after a while. The filter came with the mug is ceramic, perfectly fit in the mug. Until this point, I had no hesitation to get the mug on my shoping cart. (see mug2)
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1. Attrct user's eye first
+2. Show information that user can get what they are interested
+3. Clearly understand what your user's ability to use your site. Give clear instruction to lead user to achieve their goal.
